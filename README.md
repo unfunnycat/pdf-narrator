@@ -1,4 +1,6 @@
 # PDF Narrator
+> Looking for my newer audiobook tool?
+> Check out **Cadence**: https://github.com/mateogon/Cadence
 
 **Updated for Kokoro v1.0!**  
 Now setting up is easier—simply install the required Python dependencies (including the updated Kokoro package) and run the app. No more manual downloads or moving model files into specific folders.
